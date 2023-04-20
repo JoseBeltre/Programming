@@ -1,0 +1,8 @@
+C:\Users\JoseE\source\repos\9no-Programa2\obj\Debug\9no-Programa2.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\9no-Programa2\obj\Debug\9no-Programa2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\9no-Programa2\obj\Debug\9no-Programa2.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\9no-Programa2\bin\Debug\9no-Programa2.exe.config
+C:\Users\JoseE\source\repos\9no-Programa2\bin\Debug\9no-Programa2.exe
+C:\Users\JoseE\source\repos\9no-Programa2\bin\Debug\9no-Programa2.pdb
+C:\Users\JoseE\source\repos\9no-Programa2\obj\Debug\9no-Programa2.exe
+C:\Users\JoseE\source\repos\9no-Programa2\obj\Debug\9no-Programa2.pdb

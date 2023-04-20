@@ -1,0 +1,8 @@
+C:\Users\JoseE\source\repos\3Ejercicio\bin\Debug\3Ejercicio.exe.config
+C:\Users\JoseE\source\repos\3Ejercicio\bin\Debug\3Ejercicio.exe
+C:\Users\JoseE\source\repos\3Ejercicio\bin\Debug\3Ejercicio.pdb
+C:\Users\JoseE\source\repos\3Ejercicio\obj\Debug\3Ejercicio.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\3Ejercicio\obj\Debug\3Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\3Ejercicio\obj\Debug\3Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\3Ejercicio\obj\Debug\3Ejercicio.exe
+C:\Users\JoseE\source\repos\3Ejercicio\obj\Debug\3Ejercicio.pdb

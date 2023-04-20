@@ -1,0 +1,8 @@
+C:\Users\JoseE\source\repos\6toPrograma\bin\Debug\6toPrograma.exe.config
+C:\Users\JoseE\source\repos\6toPrograma\bin\Debug\6toPrograma.exe
+C:\Users\JoseE\source\repos\6toPrograma\bin\Debug\6toPrograma.pdb
+C:\Users\JoseE\source\repos\6toPrograma\obj\Debug\6toPrograma.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\6toPrograma\obj\Debug\6toPrograma.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\6toPrograma\obj\Debug\6toPrograma.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\6toPrograma\obj\Debug\6toPrograma.exe
+C:\Users\JoseE\source\repos\6toPrograma\obj\Debug\6toPrograma.pdb

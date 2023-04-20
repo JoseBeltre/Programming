@@ -1,0 +1,8 @@
+C:\Users\JoseE\source\repos\7mo-Programa\bin\Debug\7mo-Programa.exe.config
+C:\Users\JoseE\source\repos\7mo-Programa\bin\Debug\7mo-Programa.exe
+C:\Users\JoseE\source\repos\7mo-Programa\bin\Debug\7mo-Programa.pdb
+C:\Users\JoseE\source\repos\7mo-Programa\obj\Debug\7mo-Programa.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\7mo-Programa\obj\Debug\7mo-Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\7mo-Programa\obj\Debug\7mo-Programa.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\7mo-Programa\obj\Debug\7mo-Programa.exe
+C:\Users\JoseE\source\repos\7mo-Programa\obj\Debug\7mo-Programa.pdb

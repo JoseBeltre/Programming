@@ -1,0 +1,8 @@
+C:\Users\JoseE\source\repos\2do-Programa\bin\Debug\2do-Programa.exe.config
+C:\Users\JoseE\source\repos\2do-Programa\bin\Debug\2do-Programa.exe
+C:\Users\JoseE\source\repos\2do-Programa\bin\Debug\2do-Programa.pdb
+C:\Users\JoseE\source\repos\2do-Programa\obj\Debug\2do-Programa.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\2do-Programa\obj\Debug\2do-Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\2do-Programa\obj\Debug\2do-Programa.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\2do-Programa\obj\Debug\2do-Programa.exe
+C:\Users\JoseE\source\repos\2do-Programa\obj\Debug\2do-Programa.pdb

@@ -1,0 +1,16 @@
+C:\Users\JoseE\source\repos\1Programa\bin\Debug\1Programa.exe.config
+C:\Users\JoseE\source\repos\1Programa\bin\Debug\1Programa.exe
+C:\Users\JoseE\source\repos\1Programa\bin\Debug\1Programa.pdb
+C:\Users\JoseE\source\repos\1Programa\obj\Debug\1Programa.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\1Programa\obj\Debug\1Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\1Programa\obj\Debug\1Programa.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\1Programa\obj\Debug\1Programa.exe
+C:\Users\JoseE\source\repos\1Programa\obj\Debug\1Programa.pdb
+C:\Users\JoseE\source\repos\1er-Programa\bin\Debug\1Programa.exe.config
+C:\Users\JoseE\source\repos\1er-Programa\bin\Debug\1Programa.exe
+C:\Users\JoseE\source\repos\1er-Programa\bin\Debug\1Programa.pdb
+C:\Users\JoseE\source\repos\1er-Programa\obj\Debug\1Programa.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\1er-Programa\obj\Debug\1Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\1er-Programa\obj\Debug\1Programa.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\1er-Programa\obj\Debug\1Programa.exe
+C:\Users\JoseE\source\repos\1er-Programa\obj\Debug\1Programa.pdb

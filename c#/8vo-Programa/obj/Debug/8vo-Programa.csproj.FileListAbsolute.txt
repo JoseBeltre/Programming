@@ -1,0 +1,8 @@
+C:\Users\JoseE\source\repos\8vo-Programa\obj\Debug\8vo-Programa.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\8vo-Programa\obj\Debug\8vo-Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\8vo-Programa\obj\Debug\8vo-Programa.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\8vo-Programa\bin\Debug\8vo-Programa.exe.config
+C:\Users\JoseE\source\repos\8vo-Programa\bin\Debug\8vo-Programa.exe
+C:\Users\JoseE\source\repos\8vo-Programa\bin\Debug\8vo-Programa.pdb
+C:\Users\JoseE\source\repos\8vo-Programa\obj\Debug\8vo-Programa.exe
+C:\Users\JoseE\source\repos\8vo-Programa\obj\Debug\8vo-Programa.pdb

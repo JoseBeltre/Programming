@@ -1,0 +1,16 @@
+C:\Users\JoseE\source\repos\4Ejercicio\bin\Debug\4Ejercicio.exe.config
+C:\Users\JoseE\source\repos\4Ejercicio\bin\Debug\4Ejercicio.exe
+C:\Users\JoseE\source\repos\4Ejercicio\bin\Debug\4Ejercicio.pdb
+C:\Users\JoseE\source\repos\4Ejercicio\obj\Debug\4Ejercicio.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\4Ejercicio\obj\Debug\4Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\4Ejercicio\obj\Debug\4Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\4Ejercicio\obj\Debug\4Ejercicio.exe
+C:\Users\JoseE\source\repos\4Ejercicio\obj\Debug\4Ejercicio.pdb
+C:\Users\JoseE\source\repos\4to-Programa\bin\Debug\4Ejercicio.exe.config
+C:\Users\JoseE\source\repos\4to-Programa\bin\Debug\4Ejercicio.exe
+C:\Users\JoseE\source\repos\4to-Programa\bin\Debug\4Ejercicio.pdb
+C:\Users\JoseE\source\repos\4to-Programa\obj\Debug\4Ejercicio.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\4to-Programa\obj\Debug\4Ejercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\4to-Programa\obj\Debug\4Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\4to-Programa\obj\Debug\4Ejercicio.exe
+C:\Users\JoseE\source\repos\4to-Programa\obj\Debug\4Ejercicio.pdb

@@ -1,0 +1,8 @@
+C:\Users\JoseE\source\repos\5toPrograma\bin\Debug\5toPrograma.exe.config
+C:\Users\JoseE\source\repos\5toPrograma\bin\Debug\5toPrograma.exe
+C:\Users\JoseE\source\repos\5toPrograma\bin\Debug\5toPrograma.pdb
+C:\Users\JoseE\source\repos\5toPrograma\obj\Debug\5toPrograma.csproj.AssemblyReference.cache
+C:\Users\JoseE\source\repos\5toPrograma\obj\Debug\5toPrograma.csproj.SuggestedBindingRedirects.cache
+C:\Users\JoseE\source\repos\5toPrograma\obj\Debug\5toPrograma.csproj.CoreCompileInputs.cache
+C:\Users\JoseE\source\repos\5toPrograma\obj\Debug\5toPrograma.exe
+C:\Users\JoseE\source\repos\5toPrograma\obj\Debug\5toPrograma.pdb
